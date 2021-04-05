@@ -1,0 +1,7 @@
+class sachin {
+
+public static void main (string[] args) {
+system.out.println("this is clas file")
+}}
+
+
